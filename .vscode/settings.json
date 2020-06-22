@@ -17,5 +17,11 @@
     },    
     "tslint.enable": true,
     "tslint.rulesDirectory": "node_modules/tslint-microsoft-contrib",
-    "typescript.tsdk": "./node_modules/typescript/lib"
+    "typescript.tsdk": "./node_modules/typescript/lib",
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#6d31ff",
+        "statusBar.border": "#6d31ff",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#9164ff"
+    }
 }
