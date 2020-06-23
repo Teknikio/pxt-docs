@@ -41,7 +41,8 @@ pxt staticpkg
 
 - Copy the generated files from `/built/packaged/docs` to the `Teknikio.github.io repository`
 
-- Avoid copying the full folder as this takes a very long time to upload to S3, and try to retrieve only the relevant files from the built output.
+- Avoid copying the full folder if you can and try to retrieve only the relevant files from the built output. For example, if you edit on-start.md, try to only copy over `on-start.html` and `on-start.md`
 
-- CloudFront will cache the files for 24 hours, if you need to see your changes reflected immediately, you can visit the CloudFront distribution for AWS and invalidate the files:
-  https://console.aws.amazon.com/cloudfront/home#distribution-settings:E2LNR9UBUJNBSX
+- Cache might take a few minutes to clear the old stuff, so keep reloading to see your changes.
+
+- Make sure to commit your files on both repos.
