@@ -39,7 +39,7 @@ To edit this page, you need to edit the corresponding Markdown file, it will hav
 pxt staticpkg
 ```
 
-- Copy the generated files from `/built/packaged/docs` to the S3 bucket `docs.teknikio.com`
+- Copy the generated files from `/built/packaged/docs` to the `Teknikio.github.io repository`
 
 - Avoid copying the full folder as this takes a very long time to upload to S3, and try to retrieve only the relevant files from the built output.
 
