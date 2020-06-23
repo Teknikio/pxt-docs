@@ -2,6 +2,12 @@ You can find the original README.md info for the microbit-pxt from which this re
 
 # Working on the Teknikio Documentation
 
+- Make sure to checkout a new branch before editing:
+
+```
+git checkout -b YOUR_NAME/WHAT_YOURE_DOING
+```
+
 - Install dependencies
 
 ```
@@ -17,6 +23,10 @@ pxt serve
 - Visit localhost:3232/docs
 
 - Edit a Markdown file `.md`. You can use a code editor like VSCode to view a preview as you edit the file.
+
+- Once your edits are complete, open a pull request to master. After it's been merged, follow the steps below to deploy new changes.
+
+# How to deploy new changes
 
 - Once the changes are ready, run
 
