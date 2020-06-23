@@ -22,6 +22,11 @@ pxt serve
 
 - Visit localhost:3232/docs
 
+- To find the markdown file you need to edit, navigate using the main website, to for example:
+  https://docs.teknikio.com/docs/blocks/on-start.html
+
+To edit this page, you need to edit the corresponding Markdown file, it will have the same name as the last portion of the url, but will end in `.md` instead of `.html`. So to edit this page I would need to edit `on-start.md`
+
 - Edit a Markdown file `.md`. You can use a code editor like VSCode to view a preview as you edit the file.
 
 - Once your edits are complete, open a pull request to master. After it's been merged, follow the steps below to deploy new changes.
