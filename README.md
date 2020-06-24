@@ -49,6 +49,11 @@ pxt staticpkg
 
 - Avoid copying the full folder if you can and try to retrieve only the relevant files from the built output. For example, if you edit on-start.md, try to only copy over `on-start.html` and `on-start.md`
 
+- The folder structure in `Teknikio.github.io` follows the same structure under `/built/packaged` in the pxt-docs repository. This means the following file in pxt-docs:
+-- `built/packaged/docs/about.html`
+can be found in Teknikio.github.io under
+-- `/docs/about.html`
+
 - Cache might take a few minutes to clear the old stuff, so keep reloading to see your changes.
 
 - Make sure to commit your files on both repos.
