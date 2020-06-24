@@ -8,6 +8,12 @@ You can find the original README.md info for the microbit-pxt from which this re
 git checkout -b YOUR_NAME/WHAT_YOURE_DOING
 ```
 
+- Install pxt on your computer
+
+```
+npm install -g pxt
+```
+
 - Install dependencies
 
 ```
