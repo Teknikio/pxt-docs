@@ -2,7 +2,7 @@
 
 A collection of courses and tutorials built for the @boardname@.
 
-## Intro to Computer Science
+## Computational Thinking
 
 MakeCode's course for learning Computer Science with the micro:bit. This is a 14 week computer science course for middle school grades 6-8.
 

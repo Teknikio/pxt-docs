@@ -1,8 +1,8 @@
 {
-    "id": "microbit",
-    "nickname": "microbit",
+    "id": "tekniverse",
+    "nickname": "tekniverse",
     "name": "makecode.microbit.org",
-    "title": "Microsoft MakeCode for micro:bit",
+    "title": "Tekniverse by Teknikio",
     "description": "A Blocks / JavaScript code editor for the micro:bit powered by Microsoft MakeCode.",
     "corepkg": "core",
     "bundleddirs": [

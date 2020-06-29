@@ -1,4 +1,4 @@
 # @extends
 
 ## #support
-Use the Microbit Foundation [support web site](https://support.microbit.org)!
+Use the Teknikio [support web site](https://www.teknikio.com/pages/contact)!

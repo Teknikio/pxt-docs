@@ -1,9 +1,59 @@
 # Projects
 
+Need help getting started? We have tons of projects to explore in our [Inventions Database](https://tekniverse.teknikio.com/resources/inventions)!
+
+If you’re feeling stuck, check out our demo projects below. The following projects are a great intro to the platform and serve as a Bluebird 101.
+
+# Beginner
 ```codecard
 [
     {
-        "name": "Tutorials",
+        "name": "Siren",
+        "url": "/tutorials",
+        "imageUrl": "/static/mb/projects/a1-display.png",
+        "largeImageUrl": "/static/mb/projects/flashing-heart/sim.gif"
+    },
+    {
+        "name": "Night Light",
+        "url": "/live-coding",
+        "imageUrl": "/static/live-coding/live.png"
+    },
+    {
+        "name": "Magic Wand",
+        "url": "/projects/games",
+        "imageUrl": "/static/mb/projects/a4-motion.png"
+    }
+
+    ]
+    ```
+# Intermediate
+
+```codecard
+[
+    {
+        "name": "Push-up Counter",
+        "url": "/tutorials",
+        "imageUrl": "/static/mb/projects/a1-display.png",
+        "largeImageUrl": "/static/mb/projects/flashing-heart/sim.gif"
+    },
+    {
+        "name": "Smart Timer Cube",
+        "url": "/live-coding",
+        "imageUrl": "/static/live-coding/live.png"
+    },
+    {
+        "name": "Sunset Mountain",
+        "url": "/projects/games",
+        "imageUrl": "/static/mb/projects/a4-motion.png"
+    }
+
+    ]
+    ```
+# Advanced
+```codecard
+[
+    {
+        "name": "Domino Effect",
         "url": "/tutorials",
         "imageUrl": "/static/mb/projects/a1-display.png",
         "largeImageUrl": "/static/mb/projects/flashing-heart/sim.gif"
@@ -17,62 +67,18 @@
         "name": "Games",
         "url": "/projects/games",
         "imageUrl": "/static/mb/projects/a4-motion.png"
-    },
-    {
-        "name": "Radio Games",
-        "url": "/projects/radio-games",
-        "imageUrl": "/static/multi.png"
-    },
-    {
-        "name": "Fashion",
-        "url": "/projects/fashion",
-        "imageUrl": "/static/mb/projects/wallet.png"
-    },
-    {
-        "name": "Music",
-        "url": "/projects/music",
-        "imageUrl": "/static/mb/projects/a6-music.png"
-    },
-    {
-        "name": "Toys",
-        "url": "/projects/toys",
-        "imageUrl": "/static/mb/projects/inchworm.jpg"
-    },
-    {
-        "name": "Science",
-        "url": "/projects/science",
-        "imageUrl": "/static/mb/projects/timegate.jpg"
-    },
-    {
-        "name": "Tools",
-        "url": "/projects/tools",
-        "imageUrl": "/static/mb/projects/stopwatch.png"
-    },
-    {
-        "name": "Turtle",
-        "url": "/projects/turtle",
-        "imageUrl": "/static/mb/projects/turtle-square.png"
-    },
-    {
-        "name": "Blocks To JavaScript",
-        "url": "/courses/blocks-to-javascript",
-        "imageUrl": "/static/courses/blocks-to-javascript/hello-javascript.png"
-    },
-    {
-        "name": "Courses",
-        "url": "/courses",
-        "imageUrl": "/static/courses/csintro.jpg"
-    },
-    {
-        "name": "Behind the MakeCode Hardware",
-        "url": "/behind-the-makecode-hardware",
-        "imageUrl": "/static/mb/behindhardware/leds.jpg"
-    },
-    {
-        "name": "Science Experiments",
-        "url": "/science-experiments",
-        "imageUrl": "/static/mb/science-experiments/data-collection.jpg"
-    },
+    }
+
+    ]
+    ```
+
+
+
+## See Also
+
+```codecard
+[
+
     {
         "name": "Coding Cards",
         "url": "/coding-cards",
@@ -85,23 +91,3 @@
     }
 ]
 ```
-
-## See Also
-
-[Tutorials](/tutorials),
-[Live Coding](/live-coding),
-[Games](/projects/games),
-[Radio Games](/projects/radio-games),
-[Fashion](/projects/fashion),
-[Music](/projects/music),
-[Toys](/projects/toys),
-[Science](/projects/science),
-[Tools](/projects/tools),
-[Turtle](/projects/turtle),
-[Blocks To JavaScript](/courses/blocks-to-javascript),
-[Courses](/courses),
-[Behind the MakeCode Hardware](/behind-the-makecode-hardware),
-[Science Experiments](/science-experiments),
-[Coding Cards](/coding-cards),
-[Deep Dive](/deep-dive)
-
