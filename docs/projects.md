@@ -1,93 +1,80 @@
-# Projects
+# Demo Projects
+Need help getting started?There are many projects to explore in our [Inventions Database!](http://tekniverse.teknikio.com/resources/inventions)
 
-Need help getting started? We have tons of projects to explore in our [Inventions Database](https://tekniverse.teknikio.com/resources/inventions)!
+The following projects are a great intro to the platform and serve as a Bluebird 101
 
-If you’re feeling stuck, check out our demo projects below. The following projects are a great intro to the platform and serve as a Bluebird 101.
-
-# Beginner
 ```codecard
 [
     {
         "name": "Siren",
-        "url": "/tutorials",
-        "imageUrl": "/static/mb/projects/a1-display.png",
-        "largeImageUrl": "/static/mb/projects/flashing-heart/sim.gif"
-    },
-    {
-        "name": "Night Light",
-        "url": "/live-coding",
-        "imageUrl": "/static/live-coding/live.png"
+        "url": "projects/siren",
+        "imageUrl": "/static/mb/projects/siren.jpg"
+
     },
     {
         "name": "Magic Wand",
-        "url": "/projects/games",
-        "imageUrl": "/static/mb/projects/a4-motion.png"
-    }
-
-    ]
+        "url": "projects/magic_wand.jpg",
+        "imageUrl": "/static/mb/projects/magic_wand.jpg"
+    },
+    {
+        "name": "Nightlight",
+        "url": "/projects/nightlight",
+        "imageUrl": "/static/mb/projects/nightlight.jpg"
+    }]
     ```
 # Intermediate
-
 ```codecard
-[
-    {
-        "name": "Push-up Counter",
-        "url": "/tutorials",
-        "imageUrl": "/static/mb/projects/a1-display.png",
-        "largeImageUrl": "/static/mb/projects/flashing-heart/sim.gif"
+    [{
+        "name": "Pushup Counter",
+        "url": "/projects/radio-games",
+        "imageUrl": "/static/mb/projects/pushupcounter.jpg"
     },
     {
         "name": "Smart Timer Cube",
-        "url": "/live-coding",
-        "imageUrl": "/static/live-coding/live.png"
+        "url": "/projects/fashion",
+        "imageUrl": "/static/mb/projects/.png"
     },
     {
         "name": "Sunset Mountain",
-        "url": "/projects/games",
-        "imageUrl": "/static/mb/projects/a4-motion.png"
-    }
-
-    ]
+        "url": "/projects/music",
+        "imageUrl": "/static/mb/projects/.png"
+    }]
     ```
 # Advanced
-```codecard
-[
-    {
-        "name": "Domino Effect",
-        "url": "/tutorials",
-        "imageUrl": "/static/mb/projects/a1-display.png",
-        "largeImageUrl": "/static/mb/projects/flashing-heart/sim.gif"
+  ```codecard    
+  [  {
+        "name": "Toys",
+        "url": "/projects/toys",
+        "imageUrl": "/static/mb/projects/inchworm.jpg"
     },
     {
-        "name": "Live Coding",
-        "url": "/live-coding",
-        "imageUrl": "/static/live-coding/live.png"
+        "name": "Science",
+        "url": "/projects/science",
+        "imageUrl": "/static/mb/projects/timegate.jpg"
     },
     {
-        "name": "Games",
-        "url": "/projects/games",
-        "imageUrl": "/static/mb/projects/a4-motion.png"
-    }
-
-    ]
-    ```
-
-
-
-## See Also
-
-```codecard
-[
-
-    {
-        "name": "Coding Cards",
-        "url": "/coding-cards",
-        "imageUrl": "/static/coding-cards/balance-card.jpg"
-    },
-    {
-        "name": "Deep Dive",
-        "url": "/deep-dive",
-        "imageUrl": "/static/deep-dive/RpK4Cg42eNk.jpg"
+        "name": "Tools",
+        "url": "/projects/tools",
+        "imageUrl": "/static/mb/projects/stopwatch.png"
     }
 ]
 ```
+
+## See Also
+
+<!--[Tutorials](/tutorials),
+[Live Coding](/live-coding),
+[Games](/projects/games),
+[Radio Games](/projects/radio-games),
+[Fashion](/projects/fashion),
+[Music](/projects/music),
+[Toys](/projects/toys),
+[Science](/projects/science),
+[Tools](/projects/tools),
+[Turtle](/projects/turtle),-->
+[Blocks To JavaScript](/courses/blocks-to-javascript),
+[Courses](/courses),
+[Behind the Hardware](/device),
+[Science Experiments](/science-experiments),
+[Coding Cards](/coding-cards),
+[Deep Dive](/deep-dive)

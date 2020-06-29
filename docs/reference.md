@@ -5,10 +5,10 @@
 ```namespaces
 basic.showNumber(0);
 input.onButtonPressed(Button.A, () => {
-    
+
 });
 music.playTone(0, 0);
-led.plot(0, 0);
+rgb.setColor(0xff0000);
 radio.sendNumber(0);
 ```
 ## Advanced
@@ -25,7 +25,7 @@ images.createImage(`
 pins.digitalReadPin(DigitalPin.P0);
 serial.writeNumber(0);
 control.inBackground(() => {
-    
+
 });
 ```
 
@@ -35,7 +35,7 @@ control.inBackground(() => {
 bluetooth.onBluetoothConnected(() => {});
 devices.tellCameraTo(MesCameraEvent.TakePhoto);
 ```
-  
+
 ```package
 radio
 devices

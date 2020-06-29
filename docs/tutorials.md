@@ -1,8 +1,10 @@
 # Projects
 
-Here are some cool tutorials to get you started with your @boardname@!
+Need help getting started?There are many projects to explore in our Inventions Database!  links to {Inventions | tekniverse.teknikio.com/resources/inventions
 
-## Basic
+The following projects are a great intro to the platform and serve as a Bluebird 101
+
+## Beginner
 
 ```codecard
 [{
@@ -57,7 +59,10 @@ Here are some cool tutorials to get you started with your @boardname@!
     "editor": "js",
     "cardType": "tutorial"
   }]
-}, {
+```
+## Intermediate 
+  ```codecard
+ {
   "name": "Dice",
   "url":"/projects/dice",
   "description": "Shake the dice and see what number comes up!",
